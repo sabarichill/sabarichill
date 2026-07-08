@@ -133,12 +133,3 @@ philosophy: "Clean code over clever code — always."
 <sub><i>Trophies auto-refresh via the GitHub Trophy API</i></sub>
 
 </div>
-
-<!--                         FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="assets/footer.svg" width="100%" alt="Pac-Man Footer" />
-
-</div>
