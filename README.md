@@ -78,7 +78,7 @@ philosophy: "Clean code over clever code — always."
 
 ## 📊 GitHub Statistics
 
-<!-- <div align="center">
+<div align="center">
 
 <table>
   <tr>
@@ -91,18 +91,7 @@ philosophy: "Clean code over clever code — always."
   </tr>
 </table>
 
-<br> -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabarichill&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarichill&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabarichill&theme=midnight-purple&hide_border=true" />
-</p>
+<br> 
 
 <a href="https://github.com/sabarichill">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarichill&theme=midnight-purple&hide_border=true&background=0a0a0f&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=6b7280" width="70%" />
