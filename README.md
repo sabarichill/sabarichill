@@ -1,6 +1,6 @@
 <div align="center">
 
-# [𝐂𝐨𝐝𝐞𝐁𝐲𝐀𝐛𝐢](https://github.com/Abi-de-jo)
+# [Sabari S](https://github.com/sabarichill)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=500&lines=Eating+bugs+for+breakfast;Chasing+ghosts+daily;Power+pellet+mode+%E2%80%A2+ON;Waka+waka+waka;Full-Stack+Developer" alt="Typing SVG" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Instagram-techy_creation_007-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sabari-chill007">
-  <img src="https://img.shields.io/badge/LinkedIn-sabarichill-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-sabari-chill007-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sabarichill007@gmail.com">
   <img src="https://img.shields.io/badge/Email-contact-8b5cf6?style=flat-square&logo=minutemailer&logoColor=white" />
@@ -44,7 +44,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Abi
+name: Sabari S
 role: Full-Stack Developer
 stack:
   - Java / Spring Boot / Hibernate
@@ -65,7 +65,7 @@ philosophy: "Clean code over clever code — always."
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,springboot,hibernate,mysql,js,react,html,css,git,github,vscode,postman&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,react,html,css,git,github,vscode,postman&theme=dark&perline=8" alt="Tech Stack" />
 </a>
 
 </div>
