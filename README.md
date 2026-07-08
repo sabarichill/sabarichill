@@ -134,28 +134,7 @@ philosophy: "Clean code over clever code — always."
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   PAC-MAN CONTRIBUTION GRAPH                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 👻 Pac-Man Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
-
-<br>
-<sub><i>👻 Pac-Man chases your contributions — auto-updated every 12 hours</i></sub>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                 -->
