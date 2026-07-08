@@ -3,7 +3,7 @@
 # [Sabari S](https://github.com/sabarichill)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=500&lines=Java+Developer;Full-Stack+Developer;React+%7C+Spring+Boot;RESTful+APIs;Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=500&lines=Building+Ideas+Into+Reality;Learning+Never+Stops;Code+With+Purpose;Creating+Impact;Always+Curious" alt="Typing SVG" />
 </a>
 
 <!-- Pac-Man decorative separator -->
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Instagram-techy_creation_007-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sabari-chill007">
-  <img src="https://img.shields.io/badge/LinkedIn-sabari-chill007-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-sabari_chill007-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:sabarichill007@gmail.com">
   <img src="https://img.shields.io/badge/Email-contact-8b5cf6?style=flat-square&logo=minutemailer&logoColor=white" />
