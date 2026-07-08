@@ -3,7 +3,7 @@
 # [Sabari S](https://github.com/sabarichill)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=500&lines=Eating+bugs+for+breakfast;Chasing+ghosts+daily;Power+pellet+mode+%E2%80%A2+ON;Waka+waka+waka;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FDE047&center=true&vCenter=true&width=500&lines=Java+Developer;Full-Stack+Developer;React+%7C+Spring+Boot;RESTful+APIs;Open+to+Work" alt="Typing SVG" />
 </a>
 
 <!-- Pac-Man decorative separator -->
